@@ -62,3 +62,18 @@ All code, assets, and contributions are the intellectual property of **Oleksandr
 
 > Unauthorized use, distribution, or modification of the source code is strictly prohibited.  
 > See [`LICENSE.txt`](./LICENSE.txt) for full terms.
+
+---
+
+## 🧙‍♂️ Follow the Journey
+
+This devlog serves as:
+- A progress tracker for the team
+- A behind-the-scenes view for early fans
+- A project showcase for potential partners who want to support the idea and vision, as well as for future team members
+
+Welcome to the legend of *Eclipse of Ages*.  
+Let the eclipse begin. 🌒
+
+
+To support the project, consider donating [here](https://buymeacoffee.com/noxfern).
