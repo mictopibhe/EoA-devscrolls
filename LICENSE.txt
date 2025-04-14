@@ -1,0 +1,13 @@
+Copyright © NOXFERN Studio 2025  
+All rights reserved.  
+
+This software, including its source code, assets, and related materials, is the exclusive intellectual property of NOXFERN Studio.  
+Project name: Eclipse of Ages
+
+You may not copy, modify, distribute, sublicense, or use any part of this codebase or related content without explicit written permission from the copyright holder.
+
+Contributors to this project agree to transfer all intellectual property rights of their contributions to NOXFERN Studio as a condition of participation.
+
+This software is provided "AS IS", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the author be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+
+Unauthorized use is strictly prohibited and may result in legal action.
