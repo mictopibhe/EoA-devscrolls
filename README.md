@@ -41,8 +41,8 @@ New log entries are added upon internal milestones, releases, or notable dev mom
 
 | Entry | Date       | Focus                          | Link                           |
 |-------|------------|--------------------------------|--------------------------------|
-| #1    | 2025-04-14 | Kickoff, Auth, Docker, Neo4j   | [`log_01_kickoff.md`](./logs/log_01_kickoff.md) |
-| #2    | TBA        | TBD                            | -                              |
+| #1    | 2025-03-15 | Kickoff                        | [`log_01_kickoff.md`](./logs/log_01_kickoff.md)         |
+| #2    | 2025-04-15 | Functional Core                | [`log_02_functional-core.md`](./logs/log_02_functional-core.md) |
 
 > You can find all logs in the [`logs/`](./logs) directory.
 
