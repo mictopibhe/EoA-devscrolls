@@ -17,4 +17,4 @@ This roadmap outlines the current and upcoming milestones for the development of
 - [ ] UI design for the landing & login pages (Angular)
 - [ ] First interactive dialogue prototype
 - [ ] Basic player profile & stats page
-- [ ] PvE combat core prototype (design + mock logic)
+- [ ] PvP combat core prototype (design + mock logic)
