@@ -1,18 +1,27 @@
 # 🌒 Eclipse of Ages – Devlog Repository
 
 Welcome to the development log of **Eclipse of Ages**, a browser-based MMORPG inspired by Slavic mythology, adapted for Ukrainian and European players.  
-This game draws inspiration from the rich lore of Slavic folklore and the nostalgic feel of early 2000s browser-based games, bringing retro gameplay mechanics into a modern context.  
-This repo tracks the journey, progress, and vision behind the game — from concept to prototype and beyond.
+This game weaves the rich tapestry of Slavic folklore with the nostalgic charm of early 2000s browser-based games, blending retro gameplay mechanics with modern web technologies. Here, you’ll follow the journey of creating a world where ancient spirits, epic quests, and player-driven stories come to life.
+
+This repository serves as the central hub for tracking the vision, progress, and challenges behind Eclipse of Ages — from initial concepts to prototype and beyond.
 
 ---
 
-## 🕹️ About the Game
+## 🎮 Project Vision
 
-**Eclipse of Ages** is a browser-based MMORPG focused on:
-- **PvP and PvE battles**: Exciting battles are enhanced by a captivating storyline.
-- **Character progression**: Level up and customize your hero.
-- **Slavic folklore**: Immerse yourself in a world inspired by ancient myths and legends.
-- **Accessible UI**: Modern interface designed for both casual and midcore players.
+Eclipse of Ages is a modern reimagining of the classic text-based MMORPG Combats, infused with the haunting beauty of Slavic mythology. Designed for Ukrainian and European players, this browser-based game brings back the addictive simplicity of early 2000s text-based RPGs while introducing fresh, immersive features.
+
+What we’re building:
+
+Nostalgic Text-Based Gameplay: Relive the thrill of Combats with turn-based battles, character progression, and clan rivalries, all driven by vivid text descriptions and strategic choices.
+
+Slavic Mythology: Explore a world of ancient spirits like Leshy, Vodyanoy, and Baba Yaga, where every quest and encounter is steeped in folklore-inspired lore.
+
+Modern Enhancements: Enjoy a sleek, mobile-friendly interface, real-time multiplayer interactions via WebSocket, and dynamic storytelling that adapts to player decisions.
+
+Community Focus: Shape the game through feedback, with systems for guilds, trading, and player-driven events.
+
+Eclipse of Ages is a love letter to the golden era of browser games, rekindled with mythic depth and modern polish for a new generation of adventurers.
 
 ---
 
